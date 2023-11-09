@@ -1,0 +1,17 @@
+Number of vehicles produced: 11
+
+Date of Production: 2023-03-21T00:28:17.491135200Z
+
+--------------------------------------------------------------------
+
+Truck - Green, 24947Km, 573Kg, 19375Kg, 13343Kg, methane, 11-wheels, 4-doors, 294Kg, 649Kg, 89Kg, openBed
+Glider - Purple, 3578Km, 129Kg, 546Kg, 424Kg, gas, 7156m, 12m
+Car - Orange, 1541Km, 64Kg, 1316Kg, 1270Kg, animal-powered, 4-wheels, 2-doors, coupe
+Truck - Blue, 4505Km, 525Kg, 41709Kg, 17372Kg, gas, 5-wheels, 4-doors, 35796Kg, 41105Kg, 85Kg, BoxTruck
+Car - Orange, 16449Km, 34Kg, 5175Kg, 4774Kg, kerosene, 5-wheels, 4-doors, fastBack
+Truck - Purple, 11642Km, 996Kg, 49021Kg, 46023Kg, electric, 9-wheels, 3-doors, 15227Kg, 48680Kg, 85Kg, BoxTruck
+Car - Amber, 33236Km, 52Kg, 3239Kg, 2332Kg, electric, 4-wheels, 3-doors, sedan
+Truck - Cyan, 8651Km, 804Kg, 43768Kg, 8513Kg, animal-powered, 11-wheels, 3-doors, 35913Kg, 43005Kg, 81Kg, BoxTruck
+Car - Blue, 42881Km, 72Kg, 1405Kg, 243Kg, animal-powered, 6-wheels, 1-doors, fastBack
+Truck - Amber, 28200Km, 823Kg, 27022Kg, 22367Kg, gas, 11-wheels, 3-doors, 4724Kg, 6416Kg, 77Kg, openBed
+Glider - Yellow, 17609Km, 4Kg, 306Kg, 4Kg, gas, 4092m, 15m

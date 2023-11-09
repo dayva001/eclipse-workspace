@@ -1,0 +1,24 @@
+Darius Ayvazian
+
+1)1. What is the difference between an abstract class and interface class? (3-5)
+	Interfaces cannot have states and instance variables.  You can have an interface in an abstract class, but not vice versa.
+	The main difference is that abstract classes can be partially abstract, while interfaces must be fully abstract.
+
+2. Do all public classes that implement an interface need to implement all the methods?
+Which type of class avoids this rule(1-2)
+	Yes, all methods of an interface must be implemented.
+	Abstract classes do not need to implement interface methods.
+
+3. If a class extends an abstract class , do all the methods need to be implemented? When
+and why?(1-2)
+	Only the abstract methods need to be implemented if the subclass is not another abstract class.
+	If the subclass is an abstract class, it does not need to implement the methods.
+
+4. Can you instantiate an object of type abstract?(1-2)
+	An abstract class cannot be instantiated.
+
+5. What is the difference between extend and implement?(2-3)
+	Extends is used for class inheritance, and implies that you are extending a parent class with more methods
+	in the child class.  Implements is used with interfaces and implies that you are adding the functionality of
+	an interface to a class.
+	

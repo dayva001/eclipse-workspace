@@ -1,0 +1,290 @@
+Rank,Name,Platform,Year,Genre,Publisher,NA_Sales,EU_Sales,JP_Sales,Other_Sales,Global_Sales
+1, Wii Sports, Wii, 2006, Sports, Nintendo, 41.49, 3.77, 29.02, 8.46, 82.74000000000001
+2, Mario Kart Wii, Wii, 2008, Racing, Nintendo, 15.85, 3.79, 12.88, 3.31, 35.83
+3, Wii Sports Resort, Wii, 2009, Sports, Nintendo, 15.75, 3.28, 11.01, 2.96, 33.0
+4, Wii Play, Wii, 2006, Misc, Nintendo, 14.03, 2.93, 9.2, 2.85, 29.009999999999998
+5, New Super Mario Bros. Wii, Wii, 2009, Platform, Nintendo, 14.59, 4.7, 7.06, 2.26, 28.61
+6, Wii Fit, Wii, 2007, Sports, Nintendo, 8.94, 3.6, 8.03, 2.15, 22.72
+7, Wii Fit Plus, Wii, 2009, Sports, Nintendo, 9.09, 2.53, 8.59, 1.79, 22.0
+8, Super Smash Bros. Brawl, Wii, 2008, Fighting, Nintendo, 6.75, 2.66, 2.61, 1.02, 13.04
+9, Super Mario Galaxy, Wii, 2007, Platform, Nintendo, 6.16, 1.2, 3.4, 0.76, 11.52
+10, Just Dance 3, Wii, 2011, Misc, Ubisoft, 6.05, 0.0, 3.15, 1.07, 10.27
+11, Just Dance 2, Wii, 2010, Misc, Ubisoft, 5.84, 0.01, 2.89, 0.78, 9.52
+12, Wii Party, Wii, 2010, Misc, Nintendo, 1.79, 2.49, 3.53, 0.68, 8.49
+13, Mario Party 8, Wii, 2007, Misc, Nintendo, 3.81, 1.58, 2.3, 0.73, 8.42
+14, Mario & Sonic at the Olympic Games, Wii, 2007, Sports, Sega, 2.58, 0.66, 3.9, 0.91, 8.05
+15, Super Mario Galaxy 2, Wii, 2010, Platform, Nintendo, 3.66, 0.98, 2.42, 0.64, 7.7
+16, The Legend of Zelda: Twilight Princess, Wii, 2006, Action, Nintendo, 3.83, 0.6, 2.19, 0.7, 7.32
+17, Just Dance, Wii, 2009, Misc, Ubisoft, 3.51, 0.0, 3.03, 0.73, 7.27
+18, Just Dance 4, Wii, 2012, Misc, Ubisoft, 4.14, 0.0, 2.21, 0.56, 6.91
+19, Zumba Fitness, Wii, 2010, Sports, 505 Games, 3.5, 0.0, 2.64, 0.67, 6.8100000000000005
+20, Donkey Kong Country Returns, Wii, 2010, Platform, Nintendo, 3.25, 1.03, 1.84, 0.47, 6.59
+21, LEGO Star Wars: The Complete Saga, Wii, 2007, Action, LucasArts, 3.66, 0.0, 1.63, 0.53, 5.82
+22, Link's Crossbow Training, Wii, 2007, Shooter, Nintendo, 3.06, 0.29, 1.18, 0.46, 4.99
+23, Animal Crossing: City Folk, Wii, 2008, Simulation, Nintendo, 1.87, 1.32, 1.12, 0.37, 4.680000000000001
+24, Guitar Hero III: Legends of Rock, Wii, 2007, Misc, Activision, 3.06, 0.0, 1.12, 0.44, 4.62
+25, Mario & Sonic at the Olympic Winter Games, Wii, 2009, Sports, Sega, 1.89, 0.22, 1.99, 0.48, 4.58
+26, Michael Jackson: The Experience, Wii, 2010, Misc, Ubisoft, 2.67, 0.01, 1.35, 0.39, 4.42
+27, The Legend of Zelda: Skyward Sword, Wii, 2011, Action, Nintendo, 2.14, 0.37, 1.2, 0.4, 4.11
+28, Carnival Games, Wii, 2007, Misc, Take-Two Interactive, 2.13, 0.05, 1.5, 0.42, 4.1
+29, EA Sports Active, Wii, 2009, Sports, Electronic Arts, 2.1, 0.06, 1.36, 0.4, 3.9200000000000004
+30, Big Brain Academy: Wii Degree, Wii, 2007, Misc, Nintendo, 1.06, 0.41, 1.93, 0.43, 3.83
+31, Mario & Sonic at the London 2012 Olympic Games, Wii, 2011, Sports, Sega, 1.14, 0.27, 1.91, 0.46, 3.7800000000000002
+32, Just Dance 2014, Wii, 2013, Misc, Ubisoft, 1.98, 0.0, 1.47, 0.32, 3.77
+33, Super Paper Mario, Wii, 2007, Platform, Nintendo, 1.98, 0.59, 0.88, 0.32, 3.77
+34, Guitar Hero: World Tour, Wii, 2008, Misc, Activision, 2.33, 0.0, 0.97, 0.35, 3.65
+35, Mario Party 9, Wii, 2012, Misc, Nintendo, 1.15, 0.76, 1.17, 0.24, 3.32
+36, Wii Music, Wii, 2008, Misc, Nintendo, 1.36, 0.46, 1.13, 0.32, 3.27
+37, LEGO Batman: The Videogame, Wii, 0, Action, Warner Bros. Interactive Entertainment, 1.86, 0.0, 1.02, 0.29, 3.17
+38, Epic Mickey, Wii, 2010, Platform, Disney Interactive Studios, 2.06, 0.12, 0.64, 0.22, 3.04
+39, WarioWare: Smooth Moves, Wii, 2006, Puzzle, Nintendo, 0.87, 0.73, 1.06, 0.26, 2.92
+40, Cooking Mama: Cook Off, Wii, 2007, Simulation, 505 Games, 1.43, 0.05, 1.13, 0.3, 2.91
+41, Zumba Fitness 2, Wii, 2011, Sports, Majesco Entertainment, 1.54, 0.0, 1.07, 0.28, 2.89
+42, Skylanders: Spyro's Adventure, Wii, 2011, Action, Activision, 1.4, 0.0, 1.14, 0.31, 2.8499999999999996
+43, Sonic and the Secret Rings, Wii, 2007, Platform, Sega, 1.24, 0.04, 1.2, 0.3, 2.7800000000000002
+44, Skylanders Giants, Wii, 2012, Action, Activision, 1.56, 0.0, 0.88, 0.22, 2.66
+45, Mario Strikers Charged, Wii, 2007, Sports, Nintendo, 1.07, 0.24, 1.06, 0.25, 2.62
+46, Super Mario All-Stars: Limited Edition, Wii, 2010, Platform, Nintendo, 1.02, 0.92, 0.52, 0.14, 2.6
+47, Deca Sports, Wii, 2008, Sports, Konami Digital Entertainment, 1.13, 0.29, 0.87, 0.25, 2.54
+48, Game Party, Wii, 2007, Misc, Midway Games, 1.5, 0.0, 0.78, 0.24, 2.52
+49, LEGO Harry Potter: Years 1-4, Wii, 2010, Action, Warner Bros. Interactive Entertainment, 1.29, 0.0, 0.97, 0.23, 2.49
+50, uDraw Studio, Wii, 2010, Misc, THQ, 1.67, 0.0, 0.58, 0.2, 2.45
+51, LEGO Indiana Jones: The Original Adventures, Wii, 0, Action, LucasArts, 1.54, 0.0, 0.63, 0.22, 2.39
+52, Skylanders SWAP Force, Wii, 2013, Platform, Activision, 1.32, 0.0, 0.83, 0.2, 2.35
+53, My Fitness Coach, Wii, 2008, Sports, Ubisoft, 1.2, 0.0, 0.9, 0.24, 2.34
+54, Just Dance Kids, Wii, 2010, Misc, Ubisoft, 1.57, 0.0, 0.56, 0.19, 2.3200000000000003
+55, Just Dance 2015, Wii, 2014, Misc, Ubisoft, 1.11, 0.0, 0.98, 0.2, 2.29
+56, Super Monkey Ball: Banana Blitz, Wii, 2006, Misc, Sega, 1.07, 0.04, 0.92, 0.24, 2.2700000000000005
+57, Call of Duty 3, Wii, 0, Shooter, Activision, 1.19, 0.0, 0.84, 0.23, 2.26
+58, Resident Evil 4, Wii, 2007, Action, Capcom, 1.34, 0.14, 0.57, 0.21, 2.26
+59, Monster Hunter Tri, Wii, 2009, Role-Playing, Nintendo, 0.67, 1.05, 0.41, 0.11, 2.24
+60, Sonic Unleashed, Wii, 2008, Platform, Sega, 1.28, 0.02, 0.68, 0.21, 2.19
+61, Your Shape featuring Jenny McCarthy, Wii, 2009, Sports, Ubisoft, 1.51, 0.0, 0.47, 0.18, 2.16
+62, Kirby's Epic Yarn, Wii, 2010, Platform, Nintendo, 1.47, 0.45, 0.09, 0.11, 2.12
+63, Mario Sports Mix, Wii, 2010, Sports, Nintendo, 0.9, 0.63, 0.45, 0.13, 2.11
+64, Rock Band, Wii, 0, Misc, MTV Games, 1.35, 0.0, 0.56, 0.2, 2.1100000000000003
+65, Wipeout: The Game, Wii, 2009, Misc, Mindscape, 1.97, 0.0, 0.0, 0.12, 2.09
+66, Dance Dance Revolution: Hottest Party, Wii, 2007, Simulation, Konami Digital Entertainment, 1.36, 0.0, 0.52, 0.2, 2.08
+67, Rayman Raving Rabbids: TV Party, Wii, 2008, Misc, Ubisoft, 0.73, 0.0, 1.09, 0.23, 2.05
+68, Call of Duty: World at War, Wii, 2008, Shooter, Activision, 1.2, 0.0, 0.59, 0.19, 1.98
+69, Mario Super Sluggers, Wii, 2008, Sports, Nintendo, 1.51, 0.29, 0.0, 0.12, 1.92
+70, Monopoly, Wii, 2008, Misc, Electronic Arts, 0.87, 0.0, 0.85, 0.2, 1.92
+71, Toy Story Mania!, Wii, 2009, Misc, Disney Interactive Studios, 1.06, 0.0, 0.67, 0.18, 1.9100000000000001
+72, Star Wars: The Force Unleashed, Wii, 2008, Action, LucasArts, 1.14, 0.0, 0.57, 0.19, 1.9
+73, Game Party 2, Wii, 2008, Misc, Midway Games, 1.3, 0.0, 0.44, 0.17, 1.9100000000000001
+74, LEGO Star Wars III: The Clone Wars, Wii, 2011, Action, LucasArts, 1.08, 0.0, 0.66, 0.17, 1.9100000000000001
+75, GoldenEye 007 (2010), Wii, 2010, Action, Activision, 0.85, 0.13, 0.71, 0.16, 1.85
+76, Rayman Raving Rabbids 2, Wii, 2007, Misc, Ubisoft, 0.83, 0.0, 0.82, 0.2, 1.85
+77, Metroid Prime 3: Corruption, Wii, 2007, Shooter, Nintendo, 0.91, 0.07, 0.74, 0.09, 1.81
+78, High School Musical: Sing It!, Wii, 2007, Misc, Disney Interactive Studios, 1.16, 0.0, 0.45, 0.16, 1.77
+79, The Beatles: Rock Band, Wii, 2009, Misc, MTV Games, 1.19, 0.0, 0.4, 0.16, 1.75
+80, Sonic Colors, Wii, 2010, Platform, Sega, 0.96, 0.01, 0.61, 0.16, 1.74
+81, Disney Infinity, Wii, 2013, Action, Disney Interactive Studios, 1.15, 0.0, 0.44, 0.14, 1.73
+82, Game Party 3, Wii, 2009, Puzzle, Warner Bros. Interactive Entertainment, 1.43, 0.0, 0.16, 0.12, 1.71
+83, Cabela's Big Game Hunter 2010, Wii, 2009, Sports, Activision Value, 1.58, 0.0, 0.0, 0.12, 1.7000000000000002
+84, We Ski, Wii, 2008, Sports, Namco Bandai Games, 0.99, 0.14, 0.42, 0.15, 1.7
+85, Kirby's Return to Dreamland, Wii, 2011, Platform, Nintendo, 0.62, 0.79, 0.21, 0.08, 1.7000000000000002
+86, Star Wars The Clone Wars: Lightsaber Duels, Wii, 2008, Action, LucasArts, 1.23, 0.0, 0.3, 0.14, 1.67
+87, MySims, Wii, 2007, Simulation, Electronic Arts, 0.91, 0.04, 0.55, 0.17, 1.6700000000000002
+88, Shaun White Snowboarding: Road Trip, Wii, 2008, Sports, Ubisoft, 0.94, 0.0, 0.57, 0.17, 1.68
+89, Big Beach Sports, Wii, 2008, Sports, THQ, 0.45, 0.0, 1.02, 0.2, 1.67
+90, Go Vacation, Wii, 2011, Misc, Namco Bandai Games, 0.48, 0.33, 0.68, 0.16, 1.6500000000000001
+91, LEGO Pirates of the Caribbean: The Video Game, Wii, 2011, Action, Disney Interactive Studios, 0.76, 0.0, 0.72, 0.16, 1.6400000000000001
+92, Pokemon Battle Revolution, Wii, 2006, Role-Playing, Nintendo, 0.8, 0.3, 0.38, 0.13, 1.61
+93, Dance Dance Revolution: Hottest Party 2, Wii, 2008, Simulation, Konami Digital Entertainment, 0.95, 0.01, 0.48, 0.15, 1.5899999999999999
+94, Carnival Games: Mini Golf, Wii, 2008, Sports, Take-Two Interactive, 0.87, 0.0, 0.56, 0.15, 1.58
+95, Guitar Hero 5, Wii, 2009, Misc, Activision, 0.94, 0.0, 0.49, 0.15, 1.58
+96, Active Life: Outdoor Challenge, Wii, 2008, Sports, Atari, 0.79, 0.19, 0.44, 0.14, 1.56
+97, Resident Evil: The Umbrella Chronicles, Wii, 2007, Action, Capcom, 0.68, 0.29, 0.43, 0.14, 1.54
+98, MySims Kingdom, Wii, 2008, Simulation, Electronic Arts, 0.71, 0.01, 0.65, 0.17, 1.54
+99, Call of Duty: Modern Warfare: Reflex Edition, Wii, 2009, Shooter, Activision, 0.95, 0.0, 0.43, 0.14, 1.52
+100, Sonic & Sega All-Stars Racing, Wii, 2010, Racing, Sega, 0.65, 0.0, 0.71, 0.15, 1.51
+101, Disney Sing It: Pop Hits, Wii, 2009, Misc, Disney Interactive Studios, 1.08, 0.0, 0.28, 0.13, 1.4900000000000002
+102, The Sims 3, Wii, 2010, Simulation, Electronic Arts, 0.61, 0.0, 0.73, 0.15, 1.49
+103, New Play Control! Mario Power Tennis, Wii, 2009, Sports, Nintendo, 0.37, 0.28, 0.69, 0.14, 1.48
+104, The House of the Dead 2 & 3 Return, Wii, 2008, Shooter, Sega, 0.78, 0.03, 0.5, 0.15, 1.46
+105, LEGO Batman 2: DC Super Heroes, Wii, 2012, Action, Warner Bros. Interactive Entertainment, 0.94, 0.0, 0.4, 0.11, 1.45
+106, Smarty Pants, Wii, 2007, Misc, Electronic Arts, 0.53, 0.0, 0.76, 0.16, 1.4500000000000002
+107, Hasbro Family Game Night, Wii, 2008, Puzzle, Electronic Arts, 0.97, 0.0, 0.34, 0.13, 1.44
+108, Rayman Raving Rabbids, Wii, 2006, Misc, Ubisoft, 1.23, 0.02, 0.07, 0.11, 1.43
+109, LEGO Indiana Jones 2: The Adventure Continues, Wii, 2009, Action, Activision, 0.91, 0.0, 0.39, 0.13, 1.4300000000000002
+110, Tiger Woods PGA Tour 09 All-Play, Wii, 2008, Sports, Electronic Arts, 0.81, 0.0, 0.48, 0.14, 1.4300000000000002
+111, Toy Story 3: The Video Game, Wii, 2010, Action, Disney Interactive Studios, 0.64, 0.0, 0.63, 0.14, 1.4100000000000001
+112, Metroid: Other M, Wii, 2010, Action, Nintendo, 0.87, 0.13, 0.31, 0.1, 1.4100000000000001
+113, Call of Duty: Black Ops, Wii, 2010, Shooter, Activision, 0.82, 0.0, 0.47, 0.12, 1.41
+114, Hannah Montana: Spotlight World Tour, Wii, 2007, Action, Disney Interactive Studios, 0.87, 0.0, 0.38, 0.13, 1.38
+115, Hasbro Family Game Night 2, Wii, 2009, Misc, Electronic Arts, 0.71, 0.0, 0.53, 0.13, 1.37
+116, Disney Princess: Enchanted Journey, Wii, 2007, Adventure, Disney Interactive Studios, 1.24, 0.0, 0.04, 0.09, 1.37
+117, LEGO Harry Potter: Years 5-7, Wii, 0, Action, Warner Bros. Interactive Entertainment, 0.76, 0.0, 0.47, 0.13, 1.3599999999999999
+118, Deal or No Deal, Wii, 2009, Misc, Zoo Games, 1.22, 0.0, 0.0, 0.09, 1.31
+119, High School Musical 3: Senior Year DANCE!, Wii, 2008, Misc, Disney Interactive Studios, 0.68, 0.0, 0.49, 0.13, 1.3
+120, Gold's Gym: Cardio Workout, Wii, 2008, Sports, Ubisoft, 1.11, 0.06, 0.04, 0.09, 1.3
+121, EA Playground, Wii, 2007, Sports, Electronic Arts, 0.69, 0.0, 0.48, 0.13, 1.2999999999999998
+122, EA Sports Active 2, Wii, 2010, Sports, Electronic Arts, 0.78, 0.0, 0.4, 0.11, 1.29
+123, Need for Speed Carbon, Wii, 2006, Racing, Electronic Arts, 0.46, 0.02, 0.66, 0.15, 1.29
+124, Guitar Hero: Aerosmith, Wii, 2008, Misc, Activision, 1.04, 0.0, 0.14, 0.1, 1.28
+125, Jillian Michaels' Fitness Ultimatum 2009, Wii, 2008, Sports, Deep Silver, 0.96, 0.0, 0.2, 0.11, 1.27
+126, Rockstar Games presents Table Tennis, Wii, 2007, Sports, Take-Two Interactive, 0.39, 0.0, 0.73, 0.15, 1.27
+127, Winter Sports: The Ultimate Challenge, Wii, 2007, Sports, RTL, 0.45, 0.0, 0.68, 0.12, 1.25
+128, Ben 10: Protector of Earth, Wii, 2007, Action, D3Publisher, 0.55, 0.0, 0.55, 0.13, 1.23
+129, Boom Blox, Wii, 2008, Puzzle, Electronic Arts, 0.72, 0.0, 0.38, 0.12, 1.22
+130, The Sims 2: Castaway, Wii, 2007, Simulation, Electronic Arts, 0.45, 0.0, 0.64, 0.14, 1.23
+131, Just Dance 2016, Wii, 2015, Misc, Ubisoft, 0.52, 0.0, 0.59, 0.1, 1.21
+132, Disney Sing It, Wii, 2008, Misc, Disney Interactive Studios, 0.77, 0.0, 0.31, 0.12, 1.2
+133, PokéPark Wii: Pikachu's Adventure, Wii, 2009, Adventure, Nintendo, 0.55, 0.42, 0.17, 0.06, 1.2000000000000002
+134, Pro Evolution Soccer 2008, Wii, 2008, Sports, Konami Digital Entertainment, 0.09, 0.11, 0.84, 0.15, 1.1900000000000002
+135, Wario Land: Shake It!, Wii, 2008, Platform, Nintendo, 0.6, 0.15, 0.31, 0.11, 1.17
+136, EA Sports Active: More Workouts, Wii, 2009, Sports, Electronic Arts, 0.78, 0.0, 0.28, 0.1, 1.1600000000000001
+137, Sonic and the Black Knight, Wii, 2009, Platform, Sega, 0.69, 0.01, 0.35, 0.11, 1.16
+138, Rabbids Go Home, Wii, 2009, Platform, Ubisoft, 0.26, 0.0, 0.75, 0.14, 1.15
+139, Need for Speed: ProStreet, Wii, 2007, Racing, Electronic Arts, 0.54, 0.0, 0.46, 0.12, 1.12
+140, NERF N-Strike, Wii, 2008, Shooter, Electronic Arts, 0.92, 0.0, 0.09, 0.09, 1.1
+141, Tiger Woods PGA Tour 10, Wii, 2009, Sports, Electronic Arts, 0.61, 0.0, 0.37, 0.11, 1.0899999999999999
+142, Endless Ocean, Wii, 2007, Adventure, Nintendo, 0.44, 0.09, 0.47, 0.09, 1.0899999999999999
+143, The Biggest Loser, Wii, 2009, Sports, THQ, 0.87, 0.0, 0.12, 0.09, 1.08
+144, Resident Evil: The Darkside Chronicles, Wii, 2009, Action, Capcom, 0.48, 0.2, 0.32, 0.09, 1.09
+145, FIFA Soccer 11, Wii, 2010, Sports, Electronic Arts, 0.26, 0.0, 0.69, 0.12, 1.0699999999999998
+146, Disney Universe, Wii, 2011, Action, Disney Interactive Studios, 0.67, 0.0, 0.3, 0.1, 1.07
+147, Sega Superstars Tennis, Wii, 2008, Sports, Sega, 0.28, 0.0, 0.65, 0.13, 1.06
+148, Skylanders: Trap Team, Wii, 2014, Action, Activision, 0.42, 0.0, 0.54, 0.08, 1.04
+149, Dance on Broadway, Wii, 2010, Misc, Ubisoft, 0.27, 0.0, 0.66, 0.12, 1.05
+150, MySims Agents, Wii, 2009, Adventure, Electronic Arts, 0.62, 0.0, 0.32, 0.1, 1.04
+151, Guinness World Records: The Videogame, Wii, 2008, Action, Warner Bros. Interactive Entertainment, 0.46, 0.0, 0.47, 0.11, 1.04
+152, Dragon Ball Z: Budokai Tenkaichi 3, Wii, 2007, Fighting, Atari, 0.33, 0.26, 0.37, 0.09, 1.05
+153, Tiger Woods PGA Tour 08, Wii, 2007, Sports, Electronic Arts, 0.94, 0.0, 0.02, 0.08, 1.04
+154, Epic Mickey 2: The Power of Two, Wii, 2012, Action, Disney Interactive Studios, 0.72, 0.0, 0.23, 0.08, 1.03
+155, The Simpsons Game, Wii, 2007, Action, Electronic Arts, 0.45, 0.0, 0.47, 0.11, 1.03
+156, Rock Band 2, Wii, 2008, Misc, MTV Games, 0.94, 0.0, 0.01, 0.08, 1.03
+157, FIFA Soccer 08, Wii, 2007, Sports, Electronic Arts, 0.32, 0.01, 0.59, 0.11, 1.03
+158, Naruto: Clash of Ninja Revolution, Wii, 2007, Fighting, Tomy Corporation, 0.45, 0.0, 0.46, 0.11, 1.02
+159, Wall-E, Wii, 2008, Platform, THQ, 0.51, 0.0, 0.4, 0.11, 1.02
+160, Guitar Hero: Warriors of Rock, Wii, 2010, Misc, Activision, 0.48, 0.0, 0.44, 0.09, 1.01
+161, NERF N-Strike Elite, Wii, 2009, Shooter, Electronic Arts, 0.93, 0.0, 0.0, 0.07, 1.0
+162, Wheel of Fortune, Wii, 2010, Misc, THQ, 0.89, 0.0, 0.04, 0.06, 0.99
+163, Band Hero, Wii, 2009, Misc, Activision, 0.6, 0.0, 0.3, 0.09, 0.99
+164, Cars: Race-O-Rama, Wii, 2009, Racing, THQ, 0.61, 0.0, 0.3, 0.09, 1.0
+165, Scooby-Doo! First Frights, Wii, 2009, Action, Warner Bros. Interactive Entertainment, 0.88, 0.0, 0.05, 0.07, 1.0
+166, WWE SmackDown vs Raw 2008, Wii, 2007, Fighting, THQ, 0.38, 0.0, 0.5, 0.11, 0.99
+167, FIFA Soccer 10, Wii, 2009, Sports, Electronic Arts, 0.23, 0.0, 0.65, 0.11, 0.99
+168, Xenoblade Chronicles, Wii, 2010, Role-Playing, Nintendo, 0.49, 0.16, 0.26, 0.08, 0.99
+169, de Blob, Wii, 2008, Platform, THQ, 0.5, 0.0, 0.37, 0.1, 0.97
+170, Club Penguin: Game Day!, Wii, 2010, Sports, Disney Interactive Studios, 0.56, 0.0, 0.33, 0.08, 0.9700000000000001
+171, LEGO The Lord of the Rings, Wii, 2012, Action, Warner Bros. Interactive Entertainment, 0.52, 0.0, 0.37, 0.08, 0.97
+172, Dragon Quest X, Wii, 2012, Role-Playing, Square Enix, 0.0, 0.96, 0.0, 0.0, 0.96
+173, Cars 2, Wii, 2011, Racing, Disney Interactive Studios, 0.46, 0.0, 0.39, 0.1, 0.95
+174, Guitar Hero: Metallica, Wii, 2009, Misc, Activision, 0.41, 0.0, 0.43, 0.1, 0.94
+175, Tony Hawk: RIDE, Wii, 2009, Sports, Activision, 0.7, 0.0, 0.17, 0.08, 0.95
+176, Wii Play: Motion, Wii, 2011, Misc, Nintendo, 0.24, 0.18, 0.43, 0.09, 0.94
+177, Cars, Wii, 2006, Racing, THQ, 0.83, 0.0, 0.04, 0.07, 0.94
+178, Nickelodeon Fit, Wii, 2010, Sports, Take-Two Interactive, 0.78, 0.0, 0.09, 0.06, 0.93
+179, EA Sports Grand Slam Tennis, Wii, 2009, Sports, Electronic Arts, 0.29, 0.02, 0.52, 0.11, 0.94
+180, Sonic Riders: Zero Gravity, Wii, 2008, Racing, Sega, 0.5, 0.02, 0.32, 0.1, 0.9400000000000001
+181, Kung Fu Panda, Wii, 2008, Action, Activision, 0.5, 0.0, 0.32, 0.09, 0.91
+182, AMF Bowling Pinbusters!, Wii, 2007, Sports, Bethesda Softworks, 0.85, 0.0, 0.0, 0.07, 0.9199999999999999
+183, Rhythm Heaven, Wii, 0, Misc, Unknown, 0.13, 0.77, 0.0, 0.01, 0.91
+184, We Ski & Snowboard, Wii, 2008, Sports, Atari, 0.38, 0.15, 0.29, 0.08, 0.9
+185, Samba De Amigo, Wii, 2008, Misc, Sega, 0.42, 0.01, 0.37, 0.1, 0.8999999999999999
+186, FIFA Soccer 09 All-Play, Wii, 2008, Sports, Electronic Arts, 0.29, 0.0, 0.52, 0.09, 0.8999999999999999
+187, Madden NFL 08, Wii, 2007, Sports, Electronic Arts, 0.82, 0.0, 0.01, 0.07, 0.8999999999999999
+188, CSI: Hard Evidence, Wii, 2008, Adventure, Ubisoft, 0.36, 0.0, 0.43, 0.1, 0.89
+189, F1 2009, Wii, 2009, Racing, Codemasters, 0.15, 0.0, 0.63, 0.11, 0.89
+190, Monster 4X4: World Circuit, Wii, 2006, Racing, Ubisoft, 0.81, 0.01, 0.0, 0.07, 0.89
+191, Call of Duty: Modern Warfare 3, Wii, 2011, Shooter, Activision, 0.6, 0.0, 0.21, 0.08, 0.8899999999999999
+192, Ghostbusters: The Video Game, Wii, 2009, Action, Atari, 0.6, 0.0, 0.21, 0.08, 0.8899999999999999
+193, Endless Ocean: Blue World, Wii, 2009, Simulation, Nintendo, 0.47, 0.12, 0.22, 0.07, 0.88
+194, Cooking Mama: World Kitchen, Wii, 2008, Simulation, 505 Games, 0.51, 0.01, 0.28, 0.08, 0.8800000000000001
+195, Gold's Gym: Dance Workout, Wii, 2010, Sports, Ubisoft, 0.71, 0.0, 0.11, 0.06, 0.8799999999999999
+196, Pictionary, Wii, 2010, Puzzle, THQ, 0.61, 0.0, 0.19, 0.07, 0.87
+197, The House of the Dead: Overkill, Wii, 2009, Shooter, Sega, 0.46, 0.02, 0.31, 0.09, 0.8800000000000001
+198, Tomb Raider: Anniversary, Wii, 2007, Action, Eidos Interactive, 0.12, 0.0, 0.63, 0.11, 0.86
+199, Need for Speed: Nitro, Wii, 2009, Racing, Electronic Arts, 0.46, 0.0, 0.31, 0.08, 0.8500000000000001
+200, Madden NFL 09 All-Play, Wii, 2008, Sports, Electronic Arts, 0.78, 0.0, 0.01, 0.07, 0.86
+201, Blazing Angels: Squadrons of WWII, Wii, 2007, Simulation, Ubisoft, 0.74, 0.0, 0.04, 0.06, 0.84
+202, Karaoke Revolution Glee, Wii, 2010, Misc, Konami Digital Entertainment, 0.52, 0.0, 0.25, 0.07, 0.8400000000000001
+203, Harvest Moon: Tree of Tranquility, Wii, 2007, Simulation, Rising Star Games, 0.69, 0.06, 0.03, 0.06, 0.84
+204, WWE SmackDown vs. Raw 2009, Wii, 2008, Fighting, THQ, 0.44, 0.0, 0.31, 0.08, 0.8300000000000001
+205, The Price is Right, Wii, 2008, Misc, Ubisoft, 0.77, 0.0, 0.0, 0.06, 0.8300000000000001
+206, Deca Sports 2, Wii, 2009, Sports, Hudson Soft, 0.33, 0.09, 0.34, 0.07, 0.8300000000000001
+207, Star Wars The Clone Wars: Republic Heroes, Wii, 2009, Action, LucasArts, 0.44, 0.0, 0.3, 0.08, 0.8200000000000001
+208, Hasbro Family Game Night 3, Wii, 2010, Misc, Electronic Arts, 0.47, 0.0, 0.28, 0.07, 0.8200000000000001
+209, EA Sports Active NFL Training Camp, Wii, 2010, Sports, Electronic Arts, 0.77, 0.0, 0.0, 0.05, 0.8200000000000001
+210, Ben 10: Alien Force, Wii, 2008, Action, Koch Media, 0.52, 0.0, 0.21, 0.07, 0.8
+211, MadWorld, Wii, 2009, Action, Sega, 0.46, 0.02, 0.25, 0.07, 0.8
+212, ABBA: You Can Dance, Wii, 2011, Misc, Ubisoft, 0.19, 0.0, 0.5, 0.11, 0.8
+213, All Star Cheer Squad, Wii, 2008, Sports, THQ, 0.43, 0.0, 0.29, 0.08, 0.8
+214, Star Wars: The Force Unleashed II, Wii, 2010, Action, LucasArts, 0.54, 0.0, 0.19, 0.06, 0.79
+215, Ghost Squad, Wii, 2007, Shooter, Sega, 0.42, 0.08, 0.21, 0.07, 0.78
+216, FIFA 12, Wii, 2011, Sports, Electronic Arts, 0.16, 0.0, 0.52, 0.11, 0.79
+217, PokePark 2: Wonders Beyond, Wii, 2011, Action, Nintendo, 0.27, 0.27, 0.2, 0.05, 0.79
+218, We Sing, Wii, 2009, Misc, Nordic Games, 0.0, 0.0, 0.69, 0.09, 0.7799999999999999
+219, Harry Potter and the Half-Blood Prince, Wii, 2009, Action, Electronic Arts, 0.28, 0.0, 0.4, 0.09, 0.77
+220, DJ Hero, Wii, 2009, Misc, Activision, 0.47, 0.0, 0.23, 0.07, 0.77
+221, Raving Rabbids: Travel in Time, Wii, 2010, Adventure, Ubisoft, 0.22, 0.0, 0.47, 0.08, 0.7699999999999999
+222, Drawn to Life: The Next Chapter, Wii, 2009, Puzzle, THQ, 0.29, 0.0, 0.39, 0.08, 0.76
+223, Deer Drive, Wii, 2009, Sports, Big Ben Interactive, 0.67, 0.0, 0.04, 0.05, 0.76
+224, FIFA 15, Wii, 2014, Sports, Electronic Arts, 0.24, 0.0, 0.46, 0.06, 0.76
+225, Monopoly Streets, Wii, 2010, Misc, Electronic Arts, 0.24, 0.0, 0.44, 0.08, 0.76
+226, Harvest Moon: Animal Parade, Wii, 2008, Simulation, Rising Star Games, 0.6, 0.02, 0.09, 0.05, 0.76
+227, WWE SmackDown vs. Raw 2010, Wii, 2009, Fighting, THQ, 0.51, 0.0, 0.17, 0.07, 0.75
+228, Madden NFL 11, Wii, 0, Sports, Unknown, 0.7, 0.0, 0.0, 0.05, 0.75
+229, Namco Museum Remix, Wii, 2007, Misc, Atari, 0.68, 0.0, 0.0, 0.05, 0.7300000000000001
+230, Indiana Jones and the Staff of Kings, Wii, 2009, Action, Activision, 0.36, 0.0, 0.3, 0.08, 0.74
+231, Madden NFL 10, Wii, 2009, Sports, Electronic Arts, 0.63, 0.0, 0.04, 0.06, 0.73
+232, Just Dance Wii, Wii, 2011, Misc, Nintendo, 0.0, 0.73, 0.0, 0.0, 0.73
+233, Avatar: The Game, Wii, 2009, Action, Ubisoft, 0.33, 0.0, 0.32, 0.08, 0.73
+234, FIFA Soccer 13, Wii, 2012, Action, Electronic Arts, 0.19, 0.0, 0.46, 0.08, 0.73
+235, Dragon Quest Swords: The Masked Queen and the Tower of Mirrors, Wii, 2007, Role-Playing, Square Enix, 0.18, 0.5, 0.01, 0.02, 0.71
+236, LEGO Rock Band, Wii, 2009, Misc, Warner Bros. Interactive Entertainment, 0.42, 0.0, 0.22, 0.07, 0.71
+237, Disney Tangled, Wii, 2010, Action, Disney Interactive Studios, 0.47, 0.0, 0.17, 0.05, 0.69
+238, Kirby's Dream Collection: Special Edition, Wii, 2012, Action, Nintendo, 0.34, 0.33, 0.0, 0.02, 0.6900000000000001
+239, Bakugan: Battle Brawlers, Wii, 2009, Action, Activision, 0.6, 0.0, 0.03, 0.05, 0.6799999999999999
+240, The Last Story, Wii, 2011, Role-Playing, Nintendo, 0.32, 0.18, 0.13, 0.04, 0.6699999999999999
+241, Red Steel, Wii, 2006, Shooter, Ubisoft, 0.55, 0.04, 0.04, 0.05, 0.68
+242, Country Dance, Wii, 2011, Misc, Funbox Media, 0.59, 0.0, 0.04, 0.04, 0.6699999999999999
+243, The Biggest Loser: Challenge, Wii, 2010, Sports, THQ, 0.49, 0.0, 0.13, 0.05, 0.6699999999999999
+244, Need For Speed: Undercover, Wii, 2008, Racing, Electronic Arts, 0.27, 0.0, 0.32, 0.07, 0.66
+245, Taiko no Tatsujin Wii, Wii, 2008, Misc, Namco Bandai Games, 0.0, 0.67, 0.0, 0.0, 0.67
+246, Summer Sports: Paradise Island (Others sales), Wii, 2008, Sports, Ubisoft, 0.0, 0.0, 0.66, 0.01, 0.67
+247, TV Show King Party, Wii, 2008, Puzzle, Ubisoft, 0.18, 0.0, 0.41, 0.08, 0.6699999999999999
+248, 007: Quantum of Solace, Wii, 2008, Action, Activision, 0.3, 0.01, 0.29, 0.07, 0.6699999999999999
+249, Rock Band 3, Wii, 2010, Misc, MTV Games, 0.56, 0.0, 0.06, 0.05, 0.67
+250, Puzzler Brain Games, Wii, 2012, Puzzle, Namco Bandai Games, 0.0, 0.66, 0.0, 0.0, 0.66
+251, New Play Control! Pikmin, Wii, 2008, Strategy, Nintendo, 0.29, 0.19, 0.14, 0.04, 0.6599999999999999
+252, Real Heroes: Firefighter, Wii, 2009, Action, Rondomedia, 0.56, 0.0, 0.04, 0.05, 0.65
+253, Disney Sing It: Party Hits, Wii, 2010, Misc, Disney Interactive Studios, 0.5, 0.0, 0.11, 0.05, 0.66
+254, The Black Eyed Peas Experience, Wii, 2011, Misc, Ubisoft, 0.39, 0.0, 0.2, 0.06, 0.65
+255, Donkey Kong Barrel Blast, Wii, 2007, Racing, Nintendo, 0.2, 0.11, 0.26, 0.06, 0.63
+256, Okami, Wii, 2008, Action, Capcom, 0.45, 0.04, 0.1, 0.05, 0.64
+257, Family Feud: 2010 Edition, Wii, 2009, Misc, Ubisoft, 0.59, 0.0, 0.0, 0.04, 0.63
+258, Red Steel 2, Wii, 2010, Shooter, Ubisoft, 0.36, 0.01, 0.21, 0.06, 0.64
+259, DJ Hero 2, Wii, 2010, Misc, Activision, 0.49, 0.0, 0.09, 0.04, 0.62
+260, Cabela's Big Game Hunter (2008), Wii, 2007, Sports, Activision, 0.58, 0.0, 0.0, 0.05, 0.63
+261, Metroid Prime: Trilogy, Wii, 2009, Shooter, Nintendo, 0.43, 0.0, 0.05, 0.14, 0.62
+262, World of Zoo, Wii, 2009, Simulation, THQ, 0.41, 0.0, 0.16, 0.05, 0.62
+263, SpongeBob's Atlantis SquarePantis, Wii, 2007, Action, THQ, 0.57, 0.0, 0.01, 0.04, 0.62
+264, Muramasa: The Demon Blade, Wii, 2009, Role-Playing, Rising Star Games, 0.33, 0.11, 0.13, 0.04, 0.6100000000000001
+265, Disney Sing It: Family Hits, Wii, 2010, Misc, Disney Interactive Studios, 0.39, 0.0, 0.18, 0.05, 0.62
+266, New Carnival Games, Wii, 2010, Misc, Take-Two Interactive, 0.35, 0.0, 0.21, 0.05, 0.61
+267, Cabela's Monster Buck Hunter, Wii, 2010, Sports, Activision, 0.58, 0.0, 0.0, 0.03, 0.61
+268, New Play Control! Donkey Kong Jungle Beat, Wii, 2008, Platform, Nintendo, 0.24, 0.14, 0.17, 0.05, 0.6000000000000001
+269, Pac-Man Party, Wii, 2010, Misc, Namco Bandai Games, 0.47, 0.01, 0.09, 0.04, 0.61
+270, Guitar Hero: Smash Hits, Wii, 2009, Misc, Activision, 0.33, 0.0, 0.21, 0.06, 0.6000000000000001
+271, Disney TH!NK Fast: The Ultimate Trivia Showdown, Wii, 2008, Misc, Disney Interactive Studios, 0.37, 0.01, 0.16, 0.06, 0.6
+272, New Play Control! Pikmin 2, Wii, 2009, Strategy, Nintendo, 0.11, 0.33, 0.14, 0.02, 0.6
+273, Phineas and Ferb: Across the 2nd Dimension, Wii, 2011, Action, Disney Interactive Studios, 0.36, 0.0, 0.19, 0.05, 0.6
+274, The Golden Compass, Wii, 0, Action, Sega, 0.26, 0.0, 0.28, 0.07, 0.6100000000000001
+275, Disney Sing It! High School Musical 3: Senior Year, Wii, 2008, Misc, Disney Interactive Studios, 0.32, 0.0, 0.23, 0.04, 0.5900000000000001
+276, Jeopardy!, Wii, 2010, Misc, THQ, 0.56, 0.0, 0.0, 0.03, 0.5900000000000001
+277, Iron Man, Wii, 2008, Action, Sega, 0.31, 0.0, 0.22, 0.06, 0.5900000000000001
+278, Go Diego Go! Great Dinosaur Rescue, Wii, 2008, Action, Take-Two Interactive, 0.53, 0.0, 0.02, 0.04, 0.5900000000000001
+279, Transformers: The Game, Wii, 2007, Action, Activision, 0.52, 0.0, 0.03, 0.04, 0.5900000000000001
+280, Skate it, Wii, 2008, Sports, Electronic Arts, 0.51, 0.0, 0.04, 0.05, 0.6
+281, Top Spin 3, Wii, 2008, Action, Take-Two Interactive, 0.15, 0.0, 0.37, 0.07, 0.59
+282, Petz Dogz 2, Wii, 2007, Simulation, Ubisoft, 0.53, 0.0, 0.01, 0.04, 0.5800000000000001
+283, The Conduit, Wii, 2009, Shooter, Sega, 0.29, 0.0, 0.23, 0.06, 0.5800000000000001
+284, Cabela's Dangerous Hunts 2011, Wii, 2010, Sports, Activision, 0.53, 0.0, 0.02, 0.04, 0.5900000000000001
+285, Trivial Pursuit, Wii, 2009, Misc, Electronic Arts, 0.21, 0.0, 0.31, 0.07, 0.59
+286, The Legend of Spyro: Dawn of the Dragon, Wii, 2008, Platform, Vivendi Games, 0.35, 0.0, 0.18, 0.05, 0.58
+287, Rayman Origins, Wii, 2011, Platform, Ubisoft, 0.23, 0.0, 0.29, 0.07, 0.59
+288, Rapala: We Fish, Wii, 2009, Sports, Activision, 0.52, 0.0, 0.02, 0.04, 0.5800000000000001
+289, Tetris Party Deluxe, Wii, 2010, Puzzle, Nintendo, 0.34, 0.02, 0.17, 0.05, 0.5800000000000001

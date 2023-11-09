@@ -1,0 +1,395 @@
+Kinect Adventures!, X360, 2010, Misc, Microsoft Game Studios, 14.97, 0.24, 4.94, 1.67, 21.82
+Grand Theft Auto V, X360, 2013, Action, Take-Two Interactive, 9.63, 0.06, 5.31, 1.38, 16.38
+Call of Duty: Modern Warfare 3, X360, 2011, Shooter, Activision, 9.03, 0.13, 4.28, 1.32, 14.76
+Call of Duty: Black Ops, X360, 2010, Shooter, Activision, 9.67, 0.11, 3.73, 1.13, 14.64
+Call of Duty: Black Ops II, X360, 2012, Shooter, Activision, 8.25, 0.07, 4.3, 1.12, 13.73
+Call of Duty: Modern Warfare 2, X360, 2009, Shooter, Activision, 8.52, 0.08, 3.63, 1.29, 13.51
+Halo 3, X360, 2007, Shooter, Microsoft Game Studios, 7.97, 0.13, 2.83, 1.21, 12.14
+Grand Theft Auto IV, X360, 2008, Action, Take-Two Interactive, 6.76, 0.14, 3.1, 1.03, 11.02
+Call of Duty: Ghosts, X360, 2013, Shooter, Activision, 6.72, 0.04, 2.63, 0.82, 10.21
+Halo: Reach, X360, 2010, Shooter, Microsoft Game Studios, 7.03, 0.08, 1.98, 0.78, 9.88
+Halo 4, X360, 2012, Shooter, Microsoft Game Studios, 6.63, 0.04, 2.36, 0.73, 9.76
+Call of Duty 4: Modern Warfare, X360, 2007, Shooter, Activision, 5.91, 0.13, 2.38, 0.9, 9.32
+Minecraft, X360, 2013, Misc, Microsoft Game Studios, 5.58, 0.02, 2.83, 0.77, 9.2
+The Elder Scrolls V: Skyrim, X360, 2011, Role-Playing, Bethesda Softworks, 5.03, 0.1, 2.86, 0.85, 8.84
+Call of Duty: World at War, X360, 2008, Shooter, Activision, 4.79, 0.0, 1.9, 0.69, 7.37
+Battlefield 3, X360, 2011, Shooter, Electronic Arts, 4.46, 0.06, 2.13, 0.69, 7.34
+Gears of War 2, X360, 2008, Shooter, Microsoft Game Studios, 4.15, 0.06, 1.92, 0.64, 6.76
+Halo 3: ODST, X360, 2009, Shooter, Microsoft Game Studios, 4.34, 0.06, 1.35, 0.61, 6.36
+Red Dead Redemption, X360, 2010, Action, Take-Two Interactive, 3.7, 0.09, 1.97, 0.57, 6.34
+Kinect Sports, X360, 2010, Sports, Microsoft Game Studios, 3.92, 0.03, 1.78, 0.51, 6.24
+Gears of War 3, X360, 2011, Shooter, Microsoft Game Studios, 4.05, 0.07, 1.62, 0.49, 6.24
+Gears of War, X360, 2006, Shooter, Microsoft Game Studios, 3.54, 0.07, 1.9, 0.6, 6.11
+Assassin's Creed, X360, 2007, Adventure, Ubisoft, 3.28, 0.07, 1.65, 0.55, 5.55
+Forza Motorsport 3, X360, 2009, Racing, Microsoft Game Studios, 2.99, 0.1, 1.92, 0.51, 5.51
+Assassin's Creed III, X360, 2012, Action, Ubisoft, 3.13, 0.03, 1.71, 0.44, 5.3
+Assassin's Creed II, X360, 2009, Action, Ubisoft, 3.1, 0.08, 1.56, 0.51, 5.27
+FIFA Soccer 13, X360, 2012, Action, Electronic Arts, 1.08, 0.03, 3.48, 0.58, 5.18
+Fable III, X360, 2010, Role-Playing, Microsoft Game Studios, 3.59, 0.05, 1.11, 0.38, 5.13
+Fallout 3, X360, 2008, Role-Playing, Bethesda Softworks, 3.39, 0.09, 1.03, 0.44, 4.96
+Batman: Arkham City, X360, 2011, Action, Warner Bros. Interactive Entertainment, 2.99, 0.04, 1.31, 0.41, 4.76
+Forza Motorsport 4, X360, 2011, Racing, Microsoft Game Studios, 2.08, 0.06, 2.04, 0.47, 4.64
+Guitar Hero III: Legends of Rock, X360, 2007, Misc, Activision, 3.19, 0.01, 0.92, 0.42, 4.53
+The Elder Scrolls IV: Oblivion, X360, 2006, Role-Playing, Take-Two Interactive, 2.82, 0.13, 1.05, 0.4, 4.39
+FIFA 14, X360, 2013, Sports, Electronic Arts, 0.92, 0.01, 2.93, 0.46, 4.31
+Call of Duty: Advanced Warfare, X360, 2014, Shooter, Activision, 2.75, 0.0, 1.18, 0.37, 4.31
+Fable II, X360, 2008, Role-Playing, Microsoft Game Studios, 2.51, 0.11, 1.27, 0.41, 4.31
+Assassin's Creed: Revelations, X360, 2011, Action, Ubisoft, 2.25, 0.04, 1.47, 0.43, 4.19
+FIFA 12, X360, 2011, Sports, Electronic Arts, 0.84, 0.02, 2.79, 0.53, 4.19
+Fallout: New Vegas, X360, 2010, Role-Playing, Bethesda Softworks, 2.65, 0.04, 1.06, 0.33, 4.08
+Forza Motorsport 2, X360, 2007, Racing, Microsoft Game Studios, 2.35, 0.03, 1.28, 0.41, 4.06
+Left 4 Dead 2, X360, 2009, Shooter, Electronic Arts, 2.67, 0.05, 0.89, 0.37, 3.99
+LEGO Indiana Jones: The Original Adventures, X360, 2008, Action, Activision, 2.4, 0.0, 1.03, 0.36, 3.78
+Battlefield 4, X360, 2013, Shooter, Electronic Arts, 2.14, 0.02, 1.08, 0.29, 3.53
+FIFA Soccer 11, X360, 2010, Sports, Electronic Arts, 0.71, 0.02, 2.4, 0.4, 3.53
+Left 4 Dead, X360, 2008, Shooter, Electronic Arts, 2.66, 0.05, 0.5, 0.3, 3.52
+Resident Evil 5, X360, 2009, Action, Capcom, 2.11, 0.12, 0.94, 0.34, 3.51
+Assassin's Creed: Brotherhood, X360, 2010, Action, Ubisoft, 2.84, 0.03, 0.39, 0.24, 3.5
+Batman: Arkham Asylum, X360, 2009, Action, Eidos Interactive, 2.2, 0.02, 0.97, 0.31, 3.5
+Battlefield: Bad Company 2, X360, 2010, Shooter, Electronic Arts, 2.09, 0.04, 1.02, 0.32, 3.48
+Borderlands, X360, 2009, Shooter, Take-Two Interactive, 2.39, 0.03, 0.73, 0.29, 3.44
+LEGO Batman: The Videogame, X360, 2008, Action, Warner Bros. Interactive Entertainment, 2.03, 0.0, 1.03, 0.32, 3.38
+Assassin's Creed IV: Black Flag, X360, 2013, Action, Ubisoft, 1.9, 0.01, 1.14, 0.29, 3.34
+Dance Central, X360, 2010, Misc, MTV Games, 2.15, 0.01, 0.77, 0.26, 3.19
+Mass Effect 2, X360, 2010, Role-Playing, Electronic Arts, 1.99, 0.03, 0.82, 0.27, 3.11
+FIFA 15, X360, 2014, Sports, Electronic Arts, 0.78, 0.0, 2.02, 0.3, 3.11
+Borderlands 2, X360, 2012, Shooter, Take-Two Interactive, 1.89, 0.04, 0.91, 0.24, 3.07
+Mass Effect 3, X360, 2012, Role-Playing, Electronic Arts, 1.94, 0.03, 0.86, 0.24, 3.07
+Kung Fu Panda, X360, 2008, Action, Activision, 1.91, 0.0, 0.84, 0.29, 3.05
+Far Cry 3, X360, 2012, Shooter, Ubisoft, 1.38, 0.02, 1.35, 0.28, 3.04
+Saints Row 2, X360, 2008, Action, THQ, 1.94, 0.02, 0.8, 0.27, 3.03
+NBA 2K13, X360, 2012, Sports, Take-Two Interactive, 2.6, 0.01, 0.21, 0.19, 3.0
+Street Fighter IV, X360, 2009, Fighting, Capcom, 1.82, 0.15, 0.71, 0.26, 2.95
+Mass Effect, X360, 2007, Role-Playing, Microsoft Game Studios, 1.83, 0.03, 0.8, 0.27, 2.93
+Sega Superstars Tennis, X360, 2008, Sports, Sega, 1.75, 0.0, 0.86, 0.28, 2.9
+Madden NFL 13, X360, 2012, Sports, Electronic Arts, 2.53, 0.0, 0.16, 0.17, 2.86
+BioShock, X360, 2007, Shooter, Take-Two Interactive, 1.65, 0.05, 0.86, 0.28, 2.83
+Madden NFL 10, X360, 2009, Sports, Electronic Arts, 2.52, 0.0, 0.09, 0.22, 2.83
+Star Wars: The Force Unleashed, X360, 2008, Action, LucasArts, 1.74, 0.0, 0.8, 0.26, 2.8
+Saints Row: The Third, X360, 2011, Action, THQ, 1.25, 0.07, 1.15, 0.3, 2.77
+L.A. Noire, X360, 2011, Adventure, Take-Two Interactive, 1.52, 0.02, 0.94, 0.24, 2.72
+Call of Duty 3, X360, 2006, Shooter, Activision, 1.49, 0.02, 0.93, 0.27, 2.71
+Madden NFL 12, X360, 2011, Sports, Electronic Arts, 2.42, 0.0, 0.11, 0.16, 2.69
+Madden NFL 11, X360, 2010, Sports, Electronic Arts, 2.38, 0.0, 0.12, 0.18, 2.69
+Skate 3, X360, 2010, Sports, Electronic Arts, 1.46, 0.0, 0.98, 0.24, 2.68
+Guitar Hero: World Tour, X360, 2008, Misc, Activision, 1.78, 0.0, 0.64, 0.25, 2.67
+LEGO Star Wars: The Complete Saga, X360, 2007, Action, LucasArts, 1.53, 0.0, 0.87, 0.24, 2.64
+Halo Wars, X360, 2009, Strategy, Microsoft Game Studios, 1.53, 0.04, 0.82, 0.24, 2.63
+Medal of Honor, X360, 2010, Shooter, Electronic Arts, 1.55, 0.04, 0.81, 0.21, 2.62
+FIFA Soccer 10, X360, 2009, Sports, Electronic Arts, 0.59, 0.01, 1.79, 0.23, 2.62
+NBA 2K12, X360, 2011, Sports, Take-Two Interactive, 2.31, 0.01, 0.14, 0.16, 2.62
+Ghostbusters: The Video Game (DS Version), X360, 2009, Action, Take-Two Interactive, 1.04, 0.03, 1.24, 0.27, 2.58
+Dragon Age: Origins, X360, 2009, Role-Playing, Electronic Arts, 1.76, 0.03, 0.56, 0.22, 2.57
+Madden NFL 09, X360, 2008, Sports, Electronic Arts, 2.21, 0.0, 0.12, 0.2, 2.54
+Marvel: Ultimate Alliance, X360, 2006, Role-Playing, Activision, 2.29, 0.0, 0.02, 0.19, 2.5
+Pure, X360, 2008, Racing, Disney Interactive Studios, 1.38, 0.0, 0.85, 0.25, 2.48
+Rock Band, X360, 0, Misc, Electronic Arts, 1.93, 0.0, 0.34, 0.21, 2.48
+NBA 2K14, X360, 2013, Sports, Take-Two Interactive, 2.1, 0.0, 0.2, 0.17, 2.47
+Halo: Combat Evolved Anniversary, X360, 2011, Shooter, Microsoft Game Studios, 1.44, 0.04, 0.73, 0.22, 2.44
+Tom Clancy's Rainbow Six: Vegas 2, X360, 2008, Shooter, Ubisoft, 1.56, 0.02, 0.61, 0.23, 2.42
+Zumba Fitness, X360, 2010, Sports, 505 Games, 1.74, 0.0, 0.48, 0.18, 2.39
+Dead Island, X360, 2011, Action, Deep Silver, 1.48, 0.0, 0.71, 0.2, 2.39
+Kinect: Disneyland Adventures, X360, 2011, Misc, Microsoft Game Studios, 1.73, 0.02, 0.46, 0.18, 2.38
+Madden NFL 08, X360, 2007, Sports, Electronic Arts, 2.18, 0.0, 0.01, 0.18, 2.37
+Kinect Sports: Season Two, X360, 2011, Sports, Microsoft Game Studios, 1.38, 0.02, 0.74, 0.22, 2.36
+Midnight Club: Los Angeles, X360, 2008, Racing, Take-Two Interactive, 1.68, 0.01, 0.46, 0.2, 2.35
+The Sims 3, X360, 2010, Simulation, Electronic Arts, 1.27, 0.0, 0.86, 0.2, 2.33
+LEGO Marvel Super Heroes, X360, 2013, Action, Warner Bros. Interactive Entertainment, 1.24, 0.0, 0.85, 0.21, 2.3
+Need for Speed: Hot Pursuit, X360, 2010, Racing, Electronic Arts, 1.03, 0.0, 0.98, 0.21, 2.22
+BioShock 2, X360, 2010, Shooter, Take-Two Interactive, 1.45, 0.02, 0.55, 0.19, 2.21
+Rock Band 2, X360, 2008, Misc, Electronic Arts, 1.78, 0.0, 0.24, 0.18, 2.2
+Guitar Hero II, X360, 2007, Misc, Activision, 2.01, 0.0, 0.02, 0.17, 2.2
+Saints Row, X360, 2006, Action, THQ, 1.17, 0.02, 0.78, 0.22, 2.19
+Madden NFL 25, X360, 2013, Sports, Electronic Arts, 1.97, 0.0, 0.07, 0.13, 2.18
+Final Fantasy XIII, X360, 2010, Role-Playing, Square Enix, 1.27, 0.01, 0.68, 0.2, 2.17
+Mortal Kombat, X360, 2011, Fighting, Warner Bros. Interactive Entertainment, 1.63, 0.0, 0.33, 0.15, 2.11
+Portal 2, X360, 2011, Shooter, Valve Software, 1.41, 0.01, 0.51, 0.17, 2.1
+Dead Rising, X360, 2006, Action, Capcom, 1.16, 0.08, 0.65, 0.2, 2.09
+NBA 2K11, X360, 2010, Action, Take-Two Interactive, 1.84, 0.01, 0.12, 0.13, 2.09
+UFC 2009 Undisputed, X360, 2009, Fighting, THQ, 1.48, 0.0, 0.39, 0.19, 2.07
+Need for Speed: ProStreet, X360, 2007, Racing, Electronic Arts, 1.04, 0.01, 0.8, 0.22, 2.06
+Tom Clancy's Splinter Cell: Conviction, X360, 2010, Action, Ubisoft, 1.2, 0.04, 0.63, 0.19, 2.06
+PGR4 - Project Gotham Racing 4, X360, 2007, Racing, Microsoft Game Studios, 0.48, 0.02, 1.29, 0.25, 2.05
+Dance Central 2, X360, 2011, Misc, Microsoft Game Studios, 1.45, 0.01, 0.42, 0.16, 2.04
+Just Dance 3, X360, 2011, Misc, Ubisoft, 1.47, 0.0, 0.4, 0.16, 2.03
+Call of Duty 2, X360, 2005, Shooter, Activision, 1.81, 0.01, 0.05, 0.15, 2.02
+Madden NFL 15, X360, 2014, Sports, Electronic Arts, 1.76, 0.0, 0.09, 0.17, 2.02
+Forza Horizon, X360, 2012, Racing, Microsoft Game Studios, 0.82, 0.04, 0.98, 0.18, 2.02
+Resident Evil 6, X360, 2012, Shooter, Capcom, 1.11, 0.07, 0.63, 0.16, 1.98
+BioShock Infinite, X360, 2013, Shooter, Take-Two Interactive, 1.22, 0.02, 0.57, 0.15, 1.96
+Tom Clancy's Rainbow Six: Vegas, X360, 2006, Shooter, Ubisoft, 1.09, 0.02, 0.65, 0.2, 1.96
+Destiny, X360, 2014, Shooter, Activision, 1.3, 0.0, 0.49, 0.16, 1.95
+FIFA Soccer 09, X360, 2008, Sports, Electronic Arts, 0.49, 0.01, 1.26, 0.18, 1.94
+Batman: Arkham Origins, X360, 2013, Action, Warner Bros. Interactive Entertainment, 1.15, 0.0, 0.61, 0.17, 1.93
+Mortal Kombat vs. DC Universe, X360, 2008, Fighting, Midway Games, 1.53, 0.0, 0.24, 0.16, 1.93
+Tomb Raider (2013), X360, 2013, Action, Square Enix, 0.86, 0.01, 0.87, 0.17, 1.92
+Need for Speed: Shift, X360, 2009, Racing, Electronic Arts, 0.73, 0.01, 0.97, 0.22, 1.92
+The Orange Box, X360, 2007, Shooter, Electronic Arts, 1.09, 0.02, 0.54, 0.17, 1.83
+Madden NFL 07, X360, 2006, Sports, Electronic Arts, 1.66, 0.01, 0.0, 0.13, 1.8
+Kinect Star Wars, X360, 2012, Action, Microsoft Game Studios, 1.05, 0.03, 0.57, 0.14, 1.78
+Hitman: Absolution, X360, 2012, Action, Square Enix, 0.68, 0.01, 0.9, 0.17, 1.76
+Call of Duty: Black Ops 3, X360, 2015, Shooter, Activision, 1.11, 0.0, 0.48, 0.16, 1.76
+Crackdown, X360, 2007, Shooter, Microsoft Game Studios, 1.0, 0.03, 0.54, 0.18, 1.75
+Dishonored, X360, 2012, Action, Bethesda Softworks, 1.06, 0.01, 0.52, 0.14, 1.73
+Saints Row IV, X360, 2013, Action, Deep Silver, 1.01, 0.01, 0.53, 0.14, 1.69
+FIFA 16, X360, 2015, Sports, Electronic Arts, 0.55, 0.0, 1.01, 0.13, 1.69
+Need For Speed: Undercover, X360, 2008, Racing, Electronic Arts, 0.79, 0.01, 0.71, 0.18, 1.69
+LEGO Batman 2: DC Super Heroes, X360, 2012, Action, Warner Bros. Interactive Entertainment, 0.9, 0.0, 0.64, 0.15, 1.68
+Max Payne 3, X360, 2012, Shooter, Take-Two Interactive, 0.86, 0.01, 0.64, 0.14, 1.66
+Need for Speed Carbon, X360, 2006, Racing, Electronic Arts, 0.76, 0.02, 0.7, 0.18, 1.66
+Army of Two, X360, 2008, Shooter, Electronic Arts, 1.09, 0.02, 0.38, 0.16, 1.65
+Kinectimals, X360, 2010, Simulation, Microsoft Game Studios, 1.02, 0.0, 0.48, 0.14, 1.64
+Viva Pinata, X360, 2006, Simulation, Microsoft Game Studios, 0.45, 0.02, 0.96, 0.2, 1.63
+NBA 2K15, X360, 2014, Sports, Take-Two Interactive, 1.33, 0.0, 0.14, 0.15, 1.63
+Just Cause 2, X360, 2010, Action, Square Enix, 0.59, 0.02, 0.85, 0.17, 1.62
+Rage, X360, 2011, Shooter, Bethesda Softworks, 0.82, 0.03, 0.61, 0.15, 1.62
+Gears of War: Judgment, X360, 2013, Shooter, Microsoft Game Studios, 0.92, 0.03, 0.53, 0.13, 1.61
+Far Cry 2, X360, 2008, Action, Ubisoft, 0.71, 0.02, 0.69, 0.18, 1.6
+SoulCalibur IV, X360, 2008, Fighting, Ubisoft, 0.92, 0.07, 0.44, 0.15, 1.59
+LEGO Harry Potter: Years 1-4, X360, 2010, Action, Warner Bros. Interactive Entertainment, 0.95, 0.0, 0.5, 0.14, 1.59
+Need for Speed: Most Wanted, X360, 2012, Racing, Electronic Arts, 0.62, 0.01, 0.8, 0.15, 1.58
+Mafia II, X360, 2010, Action, Take-Two Interactive, 0.84, 0.0, 0.56, 0.15, 1.55
+Tom Clancy's Ghost Recon Advanced Warfighter, X360, 2006, Shooter, Ubisoft, 1.4, 0.02, 0.02, 0.1, 1.54
+Dead Space 2, X360, 2011, Shooter, Electronic Arts, 0.94, 0.0, 0.45, 0.13, 1.52
+LEGO Star Wars III: The Clone Wars, X360, 2011, Action, LucasArts, 0.84, 0.0, 0.54, 0.13, 1.51
+Dead Rising 2, X360, 2010, Action, Capcom, 0.75, 0.09, 0.53, 0.12, 1.5
+007: Quantum of Solace, X360, 2008, Action, Activision, 0.82, 0.01, 0.52, 0.14, 1.49
+Fight Night Round 3, X360, 2006, Fighting, Electronic Arts, 1.33, 0.01, 0.03, 0.1, 1.47
+Star Wars: The Force Unleashed II, X360, 2010, Action, LucasArts, 0.95, 0.0, 0.4, 0.12, 1.47
+Tom Clancy's Ghost Recon: Future Soldier, X360, 2012, Shooter, Ubisoft, 0.93, 0.02, 0.4, 0.12, 1.46
+Battlefield: Bad Company, X360, 2008, Shooter, Electronic Arts, 0.81, 0.04, 0.46, 0.15, 1.46
+Homefront, X360, 2011, Shooter, THQ, 0.83, 0.02, 0.48, 0.12, 1.46
+Diablo III, X360, 2013, Role-Playing, Activision, 0.89, 0.0, 0.44, 0.12, 1.45
+WWE SmackDown vs Raw 2008, X360, 2007, Fighting, THQ, 0.92, 0.0, 0.38, 0.13, 1.44
+Kinect Joy Ride, X360, 2010, Racing, Microsoft Game Studios, 0.92, 0.0, 0.4, 0.12, 1.44
+Disney Infinity, X360, 2013, Action, Disney Interactive Studios, 0.96, 0.0, 0.37, 0.11, 1.43
+Sonic's Ultimate Genesis Collection, X360, 2009, Misc, Sega, 0.85, 0.0, 0.46, 0.13, 1.43
+Sonic Generations, X360, 2011, Platform, Sega, 0.71, 0.0, 0.57, 0.14, 1.42
+Dead Space, X360, 2008, Action, Electronic Arts, 0.89, 0.0, 0.4, 0.13, 1.42
+Fight Night Round 4, X360, 2009, Fighting, Electronic Arts, 0.95, 0.0, 0.34, 0.13, 1.41
+Injustice: Gods Among Us, X360, 2013, Fighting, Warner Bros. Interactive Entertainment, 0.97, 0.0, 0.34, 0.11, 1.41
+Deus Ex: Human Revolution, X360, 2011, Shooter, Square Enix, 0.76, 0.02, 0.48, 0.12, 1.39
+Titanfall, X360, 2014, Shooter, Electronic Arts, 0.87, 0.02, 0.38, 0.11, 1.38
+Need for Speed: The Run, X360, 2011, Action, Electronic Arts, 0.63, 0.0, 0.58, 0.15, 1.38
+Burnout Paradise, X360, 2008, Racing, Electronic Arts, 0.63, 0.01, 0.58, 0.15, 1.36
+Alan Wake, X360, 2010, Action, Microsoft Game Studios, 0.66, 0.05, 0.51, 0.13, 1.35
+Devil May Cry 4, X360, 2008, Action, Capcom, 0.79, 0.08, 0.34, 0.13, 1.35
+Crysis 2, X360, 2011, Action, Electronic Arts, 0.7, 0.02, 0.5, 0.12, 1.35
+FIFA Soccer 08, X360, 2007, Sports, Electronic Arts, 0.31, 0.01, 0.89, 0.14, 1.35
+Lost Planet: Extreme Condition, X360, 2006, Shooter, Capcom, 1.09, 0.1, 0.04, 0.11, 1.34
+Your Shape: Fitness Evolved, X360, 2010, Sports, Ubisoft, 0.79, 0.0, 0.42, 0.11, 1.33
+Skylanders SWAP Force, X360, 2013, Platform, Activision, 0.86, 0.0, 0.36, 0.11, 1.33
+UFC Undisputed 2010, X360, 2010, Fighting, THQ, 0.9, 0.0, 0.31, 0.11, 1.33
+The LEGO Movie Videogame, X360, 2014, Action, Warner Bros. Interactive Entertainment, 0.69, 0.0, 0.52, 0.11, 1.32
+Skylanders Giants, X360, 2012, Action, Activision, 0.75, 0.0, 0.45, 0.11, 1.32
+The Beatles: Rock Band, X360, 2009, Misc, MTV Games, 0.97, 0.0, 0.23, 0.11, 1.31
+Tekken 6, X360, 2009, Fighting, Namco Bandai Games, 0.71, 0.05, 0.42, 0.13, 1.31
+[Prototype], X360, 2009, Action, Activision, 0.84, 0.0, 0.35, 0.12, 1.31
+Need for Speed: Most Wanted, X360, 2005, Racing, Electronic Arts, 1.0, 0.02, 0.17, 0.1, 1.29
+Watch Dogs, X360, 2014, Action, Ubisoft, 0.72, 0.01, 0.45, 0.11, 1.28
+WWE '13, X360, 2012, Action, THQ, 0.72, 0.0, 0.45, 0.11, 1.28
+NBA 2K9, X360, 2008, Sports, Take-Two Interactive, 1.0, 0.0, 0.16, 0.11, 1.27
+WWE '12, X360, 2011, Fighting, THQ, 0.74, 0.0, 0.4, 0.12, 1.27
+LEGO The Lord of the Rings, X360, 2012, Action, Warner Bros. Interactive Entertainment, 0.63, 0.0, 0.51, 0.11, 1.26
+Guitar Hero: Aerosmith, X360, 2008, Misc, Activision, 1.0, 0.0, 0.14, 0.1, 1.23
+Just Dance 4, X360, 2012, Misc, Ubisoft, 0.9, 0.0, 0.2, 0.08, 1.19
+Your Shape: Fitness Evolved 2012, X360, 2011, Sports, Ubisoft, 0.7, 0.0, 0.37, 0.1, 1.17
+Medal of Honor: Warfighter, X360, 2012, Action, Electronic Arts, 0.58, 0.01, 0.47, 0.1, 1.17
+Mirror's Edge, X360, 2008, Platform, Electronic Arts, 0.51, 0.01, 0.51, 0.13, 1.17
+Sniper: Ghost Warrior, X360, 2010, Shooter, City Interactive, 0.54, 0.0, 0.51, 0.12, 1.16
+Plants vs. Zombies: Garden Warfare, X360, 2014, Shooter, Electronic Arts, 0.51, 0.0, 0.54, 0.1, 1.16
+Guitar Hero 5, X360, 2009, Misc, Activision, 0.65, 0.0, 0.37, 0.11, 1.14
+WWE 2K14, X360, 2013, Sports, Take-Two Interactive, 0.64, 0.0, 0.39, 0.1, 1.13
+Dragon Age II, X360, 2011, Action, Electronic Arts, 0.72, 0.01, 0.3, 0.09, 1.12
+Crackdown 2, X360, 2010, Shooter, Microsoft Game Studios, 0.63, 0.02, 0.37, 0.1, 1.12
+Rocksmith, X360, 2011, Misc, Ubisoft, 0.84, 0.01, 0.2, 0.08, 1.12
+Disney Infinity 2.0: Marvel Super Heroes, X360, 2014, Action, Disney Interactive Studios, 0.62, 0.0, 0.4, 0.1, 1.12
+Medal of Honor: Airborne, X360, 2007, Shooter, Electronic Arts, 0.45, 0.01, 0.53, 0.12, 1.1
+Skate 2, X360, 2009, Sports, Electronic Arts, 0.82, 0.01, 0.17, 0.09, 1.09
+Sonic Free Riders, X360, 2010, Racing, Sega, 0.74, 0.0, 0.26, 0.09, 1.09
+NCAA Football 13, X360, 2012, Action, Electronic Arts, 1.02, 0.0, 0.0, 0.06, 1.08
+Tomb Raider: Underworld, X360, 2008, Action, Eidos Interactive, 0.53, 0.01, 0.43, 0.11, 1.08
+Marvel vs. Capcom 3: Fate of Two Worlds, X360, 2011, Fighting, Capcom, 0.79, 0.03, 0.18, 0.07, 1.08
+NCAA Football 14, X360, 2013, Sports, Electronic Arts, 1.01, 0.0, 0.0, 0.06, 1.07
+Red Dead Redemption: Undead Nightmare, X360, 2010, Action, Take-Two Interactive, 0.57, 0.02, 0.39, 0.09, 1.07
+Bully: Scholarship Edition, X360, 2008, Action, Take-Two Interactive, 0.53, 0.03, 0.4, 0.11, 1.07
+Pro Evolution Soccer 2008, X360, 2007, Sports, Konami Digital Entertainment, 0.08, 0.04, 0.9, 0.05, 1.07
+LEGO Pirates of the Caribbean: The Video Game, X360, 2011, Action, Disney Interactive Studios, 0.54, 0.0, 0.42, 0.1, 1.07
+Aliens vs Predator, X360, 2010, Shooter, Sega, 0.55, 0.0, 0.4, 0.11, 1.06
+Darksiders, X360, 2010, Action, THQ, 0.67, 0.01, 0.29, 0.1, 1.06
+Mercenaries 2: World in Flames, X360, 2008, Shooter, Electronic Arts, 0.65, 0.01, 0.3, 0.1, 1.06
+DJ Hero, X360, 2009, Misc, Activision, 0.56, 0.0, 0.4, 0.11, 1.06
+Assassin's Creed: Rogue, X360, 2014, Action, Ubisoft, 0.58, 0.0, 0.38, 0.09, 1.05
+WWE SmackDown vs. Raw 2010, X360, 2009, Fighting, THQ, 0.56, 0.01, 0.38, 0.11, 1.05
+Sonic the Hedgehog, X360, 2006, Platform, Sega, 0.44, 0.0, 0.49, 0.11, 1.05
+The Simpsons Game, X360, 2007, Action, Electronic Arts, 0.54, 0.0, 0.4, 0.11, 1.05
+Brink, X360, 2011, Shooter, Bethesda Softworks, 0.59, 0.01, 0.35, 0.09, 1.04
+LEGO Indiana Jones 2: The Adventure Continues, X360, 2009, Action, Activision, 0.62, 0.0, 0.33, 0.09, 1.04
+Bulletstorm, X360, 2011, Shooter, Electronic Arts, 0.61, 0.01, 0.32, 0.08, 1.02
+Tom Clancy's Ghost Recon Advanced Warfighter 2, X360, 2007, Shooter, Ubisoft, 0.87, 0.02, 0.05, 0.08, 1.02
+Ace Combat 6: Fires of Liberation, X360, 2007, Simulation, Atari, 0.69, 0.22, 0.04, 0.06, 1.02
+Prince of Persia, X360, 2008, Action, Ubisoft, 0.54, 0.02, 0.35, 0.1, 1.01
+Ninja Gaiden II, X360, 2008, Action, Tecmo Koei, 0.65, 0.05, 0.22, 0.1, 1.01
+PES 2009: Pro Evolution Soccer, X360, 2008, Sports, Konami Digital Entertainment, 0.13, 0.03, 0.76, 0.09, 1.0
+UFC Undisputed 3, X360, 2012, Action, THQ, 0.72, 0.0, 0.21, 0.07, 1.0
+Winning Eleven: Pro Evolution Soccer 2007 (All Region sales), X360, 2006, Sports, Konami Digital Entertainment, 0.08, 0.02, 0.9, 0.0, 1.0
+Dark Souls, X360, 2011, Role-Playing, Namco Bandai Games, 0.64, 0.0, 0.28, 0.08, 1.0
+Dead Space 3, X360, 2013, Action, Electronic Arts, 0.64, 0.0, 0.28, 0.08, 0.99
+LEGO Harry Potter: Years 5-7, X360, 0, Action, Warner Bros. Interactive Entertainment, 0.51, 0.0, 0.39, 0.09, 0.99
+Tom Clancy's Splinter Cell: Blacklist, X360, 2013, Action, Ubisoft, 0.57, 0.01, 0.34, 0.08, 0.99
+NCAA Football 12, X360, 2011, Sports, Electronic Arts, 0.94, 0.0, 0.0, 0.06, 0.99
+Just Dance 2014, X360, 2013, Misc, Ubisoft, 0.72, 0.0, 0.19, 0.07, 0.98
+Far Cry 4, X360, 2014, Shooter, Ubisoft, 0.45, 0.0, 0.44, 0.08, 0.98
+Madden NFL 16, X360, 2015, Sports, Electronic Arts, 0.82, 0.0, 0.05, 0.1, 0.98
+Brutal Legend, X360, 2009, Action, Electronic Arts, 0.62, 0.0, 0.27, 0.09, 0.98
+NBA 2K10, X360, 2009, Sports, Take-Two Interactive, 0.88, 0.0, 0.02, 0.08, 0.97
+Skylanders: Spyro's Adventure, X360, 2011, Action, Activision, 0.53, 0.0, 0.35, 0.1, 0.97
+NBA 2K16, X360, 2015, Sports, Take-Two Interactive, 0.77, 0.0, 0.1, 0.1, 0.97
+Sonic Unleashed, X360, 2008, Platform, Sega, 0.54, 0.0, 0.33, 0.09, 0.96
+LEGO Jurassic World, X360, 2015, Action, Warner Bros. Interactive Entertainment, 0.47, 0.0, 0.4, 0.08, 0.95
+South Park: The Stick of Truth, X360, 2014, Role-Playing, Ubisoft, 0.57, 0.0, 0.3, 0.08, 0.95
+Army of Two: The 40th Day, X360, 2010, Shooter, Electronic Arts, 0.62, 0.0, 0.24, 0.08, 0.95
+Lego Batman 3: Beyond Gotham, X360, 2014, Action, Warner Bros. Interactive Entertainment, 0.48, 0.0, 0.38, 0.08, 0.95
+Rocksmith 2014, X360, 2013, Misc, Ubisoft, 0.69, 0.0, 0.17, 0.08, 0.94
+The Witcher 2: Assassins of Kings, X360, 2012, Action, Namco Bandai Games, 0.48, 0.02, 0.36, 0.08, 0.94
+Bayonetta, X360, 2009, Action, Sega, 0.51, 0.09, 0.26, 0.08, 0.94
+NCAA Football 10, X360, 2009, Sports, Electronic Arts, 0.87, 0.0, 0.0, 0.07, 0.94
+Operation Flashpoint: Dragon Rising, X360, 2009, Shooter, Codemasters, 0.36, 0.02, 0.45, 0.1, 0.93
+Skylanders: Trap Team, X360, 2014, Action, Activision, 0.54, 0.0, 0.31, 0.08, 0.93
+Blue Dragon, X360, 2006, Role-Playing, Microsoft Game Studios, 0.3, 0.21, 0.33, 0.08, 0.92
+NCAA Football 11, X360, 2010, Sports, Electronic Arts, 0.86, 0.0, 0.0, 0.06, 0.92
+FIFA Street, X360, 2012, Sports, Electronic Arts, 0.17, 0.0, 0.65, 0.1, 0.92
+WWE SmackDown vs. Raw 2009, X360, 2008, Fighting, THQ, 0.58, 0.0, 0.26, 0.08, 0.92
+Dante's Inferno, X360, 2010, Action, Electronic Arts, 0.63, 0.02, 0.2, 0.07, 0.92
+Wipeout: In The Zone, X360, 2011, Misc, Activision, 0.87, 0.0, 0.0, 0.05, 0.92
+Crysis 3, X360, 2013, Shooter, Electronic Arts, 0.51, 0.01, 0.33, 0.08, 0.92
+Lost Odyssey, X360, 2007, Role-Playing, Microsoft Game Studios, 0.45, 0.11, 0.27, 0.09, 0.92
+Tom Clancy's EndWar, X360, 2008, Strategy, Ubisoft, 0.58, 0.01, 0.24, 0.09, 0.91
+Minecraft: Story Mode, X360, 2015, Adventure, Mojang, 0.46, 0.0, 0.38, 0.08, 0.91
+Marvel: Ultimate Alliance 2, X360, 2009, Role-Playing, Activision, 0.68, 0.0, 0.15, 0.08, 0.91
+The Biggest Loser: Ultimate Workout, X360, 2010, Sports, THQ, 0.73, 0.0, 0.1, 0.06, 0.9
+F1 2010, X360, 2010, Racing, Codemasters, 0.18, 0.01, 0.59, 0.1, 0.89
+Kingdoms of Amalur: Reckoning, X360, 2012, Role-Playing, Electronic Arts, 0.55, 0.01, 0.25, 0.07, 0.89
+WWE SmackDown vs. Raw 2011, X360, 2010, Fighting, THQ, 0.44, 0.0, 0.36, 0.08, 0.88
+Sleeping Dogs, X360, 2012, Action, Square Enix, 0.38, 0.01, 0.41, 0.08, 0.88
+Michael Jackson: The Experience, X360, 2011, Misc, Ubisoft, 0.62, 0.0, 0.2, 0.07, 0.88
+Rock Band 3, X360, 2010, Misc, MTV Games, 0.73, 0.0, 0.1, 0.06, 0.88
+GRID, X360, 2008, Racing, Codemasters, 0.33, 0.01, 0.44, 0.09, 0.88
+DiRT, X360, 2007, Racing, Codemasters, 0.38, 0.0, 0.4, 0.09, 0.87
+Red Faction: Guerrilla, X360, 2009, Shooter, THQ, 0.48, 0.01, 0.29, 0.09, 0.87
+Brothers in Arms: Hell's Highway, X360, 2008, Shooter, Ubisoft, 0.47, 0.0, 0.31, 0.09, 0.87
+Guitar Hero: Warriors of Rock, X360, 2010, Misc, Activision, 0.47, 0.0, 0.32, 0.08, 0.87
+The Lord of the Rings: War in the North, X360, 0, Action, Warner Bros. Interactive Entertainment, 0.52, 0.0, 0.26, 0.08, 0.86
+2010 FIFA World Cup South Africa, X360, 2010, Sports, Electronic Arts, 0.32, 0.02, 0.43, 0.09, 0.86
+Forza Horizon 2, X360, 2014, Racing, Microsoft Game Studios, 0.35, 0.0, 0.43, 0.07, 0.85
+NBA 2K8, X360, 2007, Sports, Take-Two Interactive, 0.79, 0.0, 0.0, 0.07, 0.85
+Sniper Elite V2, X360, 2012, Shooter, 505 Games, 0.46, 0.02, 0.29, 0.07, 0.85
+Duke Nukem Forever, X360, 2011, Shooter, Take-Two Interactive, 0.52, 0.0, 0.25, 0.07, 0.84
+Need for Speed Rivals, X360, 2013, Racing, Electronic Arts, 0.37, 0.01, 0.38, 0.08, 0.84
+Dance Central 3, X360, 2012, Misc, Microsoft Game Studios, 0.57, 0.0, 0.2, 0.06, 0.83
+Sid Meier's Civilization Revolution, X360, 2008, Strategy, Take-Two Interactive, 0.58, 0.0, 0.17, 0.07, 0.83
+DJ Hero 2, X360, 2010, Misc, Activision, 0.64, 0.0, 0.12, 0.06, 0.82
+Stranglehold, X360, 2007, Shooter, Midway Games, 0.4, 0.01, 0.33, 0.09, 0.82
+Shaun White Snowboarding, X360, 0, Sports, Ubisoft, 0.48, 0.0, 0.26, 0.08, 0.82
+Pro Evolution Soccer 2010, X360, 2009, Sports, Konami Digital Entertainment, 0.12, 0.03, 0.58, 0.08, 0.81
+DiRT 2, X360, 2009, Racing, Codemasters, 0.32, 0.0, 0.4, 0.09, 0.81
+Guitar Hero: Metallica, X360, 2009, Misc, Activision, 0.52, 0.0, 0.21, 0.07, 0.81
+Fight Night Champion, X360, 2011, Fighting, Electronic Arts, 0.4, 0.0, 0.33, 0.07, 0.8
+Aliens: Colonial Marines, X360, 2013, Shooter, Sega, 0.36, 0.0, 0.37, 0.07, 0.8
+[Prototype 2], X360, 2012, Action, Activision, 0.48, 0.0, 0.25, 0.07, 0.8
+Sonic & SEGA All-Stars Racing with Banjo-Kazooie, X360, 2010, Racing, Sega, 0.37, 0.0, 0.35, 0.07, 0.8
+Dragon's Dogma, X360, 2012, Role-Playing, Capcom, 0.42, 0.07, 0.24, 0.06, 0.8
+Darksiders II, X360, 2012, Action, THQ, 0.45, 0.0, 0.28, 0.07, 0.8
+Band Hero, X360, 2009, Misc, Activision, 0.51, 0.0, 0.22, 0.07, 0.8
+The Godfather II, X360, 2009, Action, Electronic Arts, 0.47, 0.01, 0.24, 0.08, 0.79
+Rayman Origins, X360, 2011, Platform, Ubisoft, 0.38, 0.0, 0.34, 0.08, 0.79
+Star Ocean: The Last Hope, X360, 2009, Role-Playing, Square Enix, 0.32, 0.21, 0.2, 0.06, 0.79
+Dead Island: Riptide, X360, 2013, Action, Deep Silver, 0.44, 0.01, 0.27, 0.07, 0.79
+Too Human, X360, 2008, Role-Playing, Microsoft Game Studios, 0.38, 0.03, 0.3, 0.08, 0.79
+Naruto Shippuden: Ultimate Ninja Storm 2, X360, 2010, Fighting, Namco Bandai Games, 0.43, 0.01, 0.27, 0.07, 0.79
+Tom Clancy's Splinter Cell: Double Agent, X360, 2006, Action, Ubisoft, 0.67, 0.01, 0.05, 0.06, 0.78
+Lips, X360, 2008, Misc, Microsoft Game Studios, 0.12, 0.0, 0.56, 0.1, 0.78
+UFC Personal Trainer: The Ultimate Fitness System, X360, 2011, Sports, THQ, 0.53, 0.0, 0.19, 0.06, 0.78
+Resident Evil: Operation Raccoon City, X360, 2012, Action, Capcom, 0.55, 0.03, 0.15, 0.06, 0.78
+Toy Story 3: The Video Game, X360, 2010, Action, Disney Interactive Studios, 0.41, 0.0, 0.29, 0.07, 0.78
+Banjo-Kazooie: Nuts & Bolts, X360, 2008, Platform, Microsoft Game Studios, 0.32, 0.0, 0.36, 0.09, 0.78
+Avatar: The Game, X360, 2009, Action, Ubisoft, 0.34, 0.0, 0.35, 0.08, 0.78
+Perfect Dark Zero, X360, 2005, Shooter, Microsoft Game Studios, 0.66, 0.03, 0.02, 0.06, 0.77
+Lost Planet 2, X360, 2010, Shooter, Capcom, 0.38, 0.08, 0.24, 0.06, 0.76
+Kane & Lynch: Dead Men, X360, 2007, Shooter, Eidos Interactive, 0.36, 0.01, 0.31, 0.08, 0.76
+Dark Souls II, X360, 2014, Role-Playing, Namco Bandai Games, 0.48, 0.01, 0.2, 0.06, 0.76
+Rockstar Games presents Table Tennis, X360, 2006, Sports, Take-Two Interactive, 0.28, 0.0, 0.39, 0.09, 0.76
+Turok, X360, 2008, Action, Touchstone, 0.46, 0.01, 0.21, 0.07, 0.75
+The Amazing Spider-Man (Console Version), X360, 2012, Action, Activision, 0.43, 0.0, 0.26, 0.06, 0.75
+Tales of Vesperia, X360, 2008, Role-Playing, Atari, 0.32, 0.19, 0.18, 0.05, 0.75
+Borderlands: The Pre-Sequel, X360, 2014, Shooter, Take-Two Interactive, 0.46, 0.01, 0.22, 0.06, 0.75
+The Walking Dead: Season One, X360, 2012, Adventure, Avanquest Software, 0.55, 0.0, 0.14, 0.05, 0.75
+Final Fantasy XIII-2, X360, 2011, Role-Playing, Square Enix, 0.36, 0.02, 0.3, 0.06, 0.74
+F1 2011, X360, 2011, Racing, Codemasters, 0.11, 0.01, 0.51, 0.09, 0.73
+NHL 11, X360, 2010, Sports, Electronic Arts, 0.61, 0.0, 0.07, 0.05, 0.73
+DiRT 3, X360, 2011, Racing, Codemasters, 0.23, 0.01, 0.41, 0.08, 0.73
+NCAA Football 07, X360, 2006, Sports, Electronic Arts, 0.67, 0.0, 0.0, 0.06, 0.73
+MX vs. ATV Reflex, X360, 2009, Racing, THQ, 0.52, 0.0, 0.15, 0.06, 0.73
+SSX, X360, 2012, Sports, Electronic Arts, 0.38, 0.0, 0.28, 0.06, 0.72
+Major League Baseball 2K7, X360, 2007, Sports, Spike, 0.67, 0.0, 0.0, 0.05, 0.72
+Terraria, X360, 2013, Action, 505 Games, 0.35, 0.0, 0.31, 0.06, 0.72
+Skate, X360, 2007, Sports, Electronic Arts, 0.62, 0.0, 0.04, 0.06, 0.72
+Driver: San Francisco, X360, 2011, Racing, Ubisoft, 0.25, 0.0, 0.39, 0.08, 0.72
+Omerta: City of Gangsters, X360, 2011, Simulation, Konami Digital Entertainment, 0.42, 0.0, 0.23, 0.06, 0.71
+Two Worlds, X360, 2007, Role-Playing, SouthPeak Games, 0.41, 0.0, 0.23, 0.07, 0.71
+NCAA Football 09, X360, 2008, Sports, Electronic Arts, 0.65, 0.0, 0.0, 0.05, 0.71
+NBA Live 09, X360, 2008, Sports, Electronic Arts, 0.5, 0.0, 0.14, 0.07, 0.71
+NHL 12, X360, 2011, Sports, Electronic Arts, 0.55, 0.0, 0.1, 0.05, 0.7
+Infinite Undiscovery, X360, 2008, Role-Playing, Square Enix, 0.34, 0.12, 0.18, 0.06, 0.7
+NCAA Football 08, X360, 2007, Sports, Electronic Arts, 0.65, 0.0, 0.0, 0.05, 0.7
+MotionSports, X360, 2010, Sports, Ubisoft, 0.38, 0.0, 0.26, 0.06, 0.7
+WWE 2K15, X360, 2014, Sports, Take-Two Interactive, 0.38, 0.0, 0.26, 0.06, 0.69
+X-Men Origins: Wolverine - Uncaged Edition, X360, 2009, Action, Activision, 0.42, 0.0, 0.21, 0.06, 0.69
+Shrek the Third, X360, 2007, Action, Activision, 0.54, 0.0, 0.1, 0.06, 0.69
+Test Drive Unlimited 2, X360, 0, Racing, Atari, 0.3, 0.0, 0.32, 0.07, 0.69
+MX vs. ATV Untamed, X360, 2007, Racing, THQ, 0.55, 0.0, 0.08, 0.06, 0.69
+The Last Remnant, X360, 2008, Role-Playing, Square Enix, 0.25, 0.18, 0.2, 0.06, 0.69
+Castlevania: Lords of Shadow, X360, 2010, Action, Konami Digital Entertainment, 0.42, 0.01, 0.18, 0.05, 0.67
+NHL 13, X360, 2012, Sports, Electronic Arts, 0.51, 0.0, 0.11, 0.05, 0.67
+NHL 10, X360, 2009, Sports, Electronic Arts, 0.51, 0.0, 0.1, 0.06, 0.66
+Scene It? Box Office Smash, X360, 2008, Misc, Microsoft Game Studios, 0.33, 0.0, 0.25, 0.07, 0.66
+Tiger Woods PGA Tour 09, X360, 2008, Sports, Electronic Arts, 0.35, 0.0, 0.23, 0.07, 0.65
+Tiger Woods PGA Tour 10, X360, 2009, Sports, Electronic Arts, 0.39, 0.0, 0.2, 0.06, 0.65
+Dragon Ball: Raging Blast 2, X360, 2010, Fighting, Namco Bandai Games, 0.49, 0.01, 0.09, 0.05, 0.64
+XCOM: Enemy Unknown, X360, 2012, Strategy, Take-Two Interactive, 0.36, 0.0, 0.23, 0.05, 0.64
+Stuntman: Ignition, X360, 2007, Racing, THQ, 0.25, 0.0, 0.32, 0.07, 0.64
+LEGO Star Wars II: The Original Trilogy, X360, 2006, Action, LucasArts, 0.55, 0.0, 0.04, 0.05, 0.64
+The Lord of the Rings: Conquest, X360, 2009, Action, Electronic Arts, 0.37, 0.0, 0.21, 0.06, 0.64
+The Walking Dead: Survival Instinct, X360, 2013, Shooter, Activision, 0.46, 0.0, 0.12, 0.05, 0.64
+Just Dance 2015, X360, 2014, Misc, Ubisoft, 0.41, 0.0, 0.16, 0.06, 0.63
+Juiced 2: Hot Import Nights, X360, 2007, Racing, THQ, 0.22, 0.0, 0.34, 0.07, 0.63
+Ghostbusters: The Video Game, X360, 2009, Action, Atari, 0.43, 0.0, 0.14, 0.06, 0.63
+Condemned 2: Bloodshot, X360, 2008, Action, Sega, 0.38, 0.0, 0.19, 0.06, 0.63
+Transformers: Revenge of the Fallen, X360, 2009, Shooter, Activision, 0.34, 0.0, 0.23, 0.06, 0.63
+Sonic & All-Stars Racing Transformed, X360, 2012, Racing, Sega, 0.2, 0.0, 0.37, 0.06, 0.63
+Tiger Woods PGA Tour 12: The Masters, X360, 2011, Sports, Electronic Arts, 0.4, 0.0, 0.17, 0.05, 0.63
+Prince of Persia: The Forgotten Sands, X360, 2010, Action, Ubisoft, 0.3, 0.0, 0.26, 0.06, 0.62
+Wall-E, X360, 2008, Platform, THQ, 0.29, 0.0, 0.26, 0.07, 0.62
+Tony Hawk: RIDE, X360, 2009, Sports, Activision, 0.46, 0.0, 0.1, 0.05, 0.61
+pro evolution soccer 2011, X360, 2010, Sports, Konami Digital Entertainment, 0.09, 0.0, 0.44, 0.07, 0.61
+Major League Baseball 2K8, X360, 2008, Sports, Bethesda Softworks, 0.56, 0.0, 0.0, 0.05, 0.61
+Major League Baseball 2K9, X360, 2009, Sports, Spike, 0.56, 0.0, 0.0, 0.05, 0.61
+Split/Second, X360, 2010, Racing, Disney Interactive Studios, 0.32, 0.0, 0.23, 0.06, 0.61
+Transformers: The Game, X360, 2007, Action, Activision, 0.51, 0.0, 0.05, 0.05, 0.61
+Fighters Uncaged, X360, 2010, Fighting, Ubisoft, 0.31, 0.0, 0.24, 0.06, 0.61
+Call of Juarez: Bound in Blood, X360, 2009, Shooter, Ubisoft, 0.3, 0.0, 0.24, 0.06, 0.61
+PGR3 - Project Gotham Racing 3, X360, 2005, Racing, Microsoft Game Studios, 0.49, 0.03, 0.03, 0.05, 0.6
+Blur, X360, 2010, Racing, Activision, 0.25, 0.0, 0.28, 0.06, 0.6
+Kinect Rush: A Disney Pixar Adventure, X360, 2012, Adventure, Microsoft Game Studios, 0.38, 0.0, 0.16, 0.05, 0.6
+Monopoly, X360, 2008, Misc, Electronic Arts, 0.34, 0.0, 0.2, 0.06, 0.6
+London 2012: The Official Video Game of the Olympic Games, X360, 2012, Sports, Sega, 0.07, 0.0, 0.46, 0.07, 0.59
+Beijing 2008, X360, 2008, Sports, Sega, 0.15, 0.0, 0.38, 0.07, 0.59
+Naruto: The Broken Bond, X360, 2008, Action, Ubisoft, 0.24, 0.0, 0.28, 0.07, 0.59
+Payday 2, X360, 2013, Shooter, 505 Games, 0.33, 0.0, 0.21, 0.05, 0.59
+SoulCalibur V, X360, 2012, Fighting, Namco Bandai Games, 0.39, 0.02, 0.14, 0.04, 0.59
+Madden NFL 06, X360, 0, Sports, Electronic Arts, 0.54, 0.01, 0.0, 0.03, 0.59
+Game Party in Motion, X360, 2010, Misc, Warner Bros. Interactive Entertainment, 0.36, 0.0, 0.18, 0.05, 0.59
+Lost: Via Domus, X360, 2008, Action, Ubisoft, 0.18, 0.0, 0.34, 0.07, 0.59
+Tom Clancy's HAWX, X360, 2009, Action, Ubisoft, 0.31, 0.02, 0.19, 0.06, 0.58
+Transformers: War for Cybertron, X360, 2010, Shooter, Activision, 0.37, 0.0, 0.15, 0.05, 0.58
+NBA 2K7, X360, 2006, Sports, Take-Two Interactive, 0.53, 0.0, 0.0, 0.04, 0.58

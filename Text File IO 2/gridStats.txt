@@ -1,0 +1,25 @@
+grand total: 985
+totals by row:
+Row 1: 105
+Row 2: 92
+Row 3: 136
+Row 4: 96
+Row 5: 95
+Row 6: 104
+Row 7: 90
+Row 8: 92
+Row 9: 92
+Row 10: 83
+totals by column:
+Column 1: 103
+Column 2: 81
+Column 3: 80
+Column 4: 89
+Column 5: 98
+Column 6: 107
+Column 7: 103
+Column 8: 112
+Column 9: 119
+Column 10: 93
+Average Value: 9
+Total number of 17s: 5
